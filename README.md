@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Praveen kumar Thopalle</h1>
 <h3 align="center">A Machine learning expert from Silicon Valley USA</h3>
 
-- 🔭 I’m currently working on [Large Language Models](https://github.com/praveenthopalle/Summarization-Lamini-LLM-APP.git)
+🔭 I’m currently working on [Large Language Models](https://github.com/praveenthopalle/Summarization-Lamini-LLM-APP.git)
 
-- 👯 I’m looking to collaborate on [Public machine learning models](https://github.com/praveenthopalle/CSVChatbot-streamlit.git)
+👯 I’m looking to collaborate on [Public machine learning models](https://github.com/praveenthopalle/CSVChatbot-streamlit.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/praveenthopalle](https://github.com/praveenthopalle)
+👨‍💻 All of my projects are available at [https://github.com/praveenthopalle](https://github.com/praveenthopalle)
 
-- 📝 I regularly write articles on [https://dzone.com/articles/enhancing-multi-document-summarization-with-llama](https://dzone.com/articles/enhancing-multi-document-summarization-with-llama)
+📝 I regularly write articles on [https://dzone.com/articles/enhancing-multi-document-summarization-with-llama](https://dzone.com/articles/enhancing-multi-document-summarization-with-llama)
 
 - 💬 Ask me about **front-end, back-end, rest api's, full stack development, DevOps, cloud computing,Machine learning, LLM's, NLP**
 
