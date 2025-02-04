@@ -9,9 +9,9 @@
 
 📝 I regularly write articles on [https://dzone.com/articles/enhancing-multi-document-summarization-with-llama](https://dzone.com/articles/enhancing-multi-document-summarization-with-llama)
 
-- 💬 Ask me about **front-end, back-end, rest api's, full stack development, DevOps, cloud computing,Machine learning, LLM's, NLP**
+💬 Ask me about **front-end, back-end, rest api's, full stack development, DevOps, cloud computing,Machine learning, LLM's, NLP**
 
-- 📫 How to reach me **praveen.thopalle@gmail.com**
+📫 How to reach me **praveen.thopalle@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
