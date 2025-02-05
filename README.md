@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveen kumar Thopalle</h1>
-<h3 align="center">A Machine learning expert from Silicon Valley Bay Area California USA</h3>
+<h3 align="center">A Machine learning expert from Silicon Valley California USA</h3>
 
 🔭 I’m currently working on [Large Language Models](https://github.com/praveenthopalle/Summarization-Lamini-LLM-APP.git)
 
