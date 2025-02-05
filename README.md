@@ -21,6 +21,12 @@
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+# 👨‍🔬 Research & Publications:
+- **ResearchGate:** [Praveen Kumar Thopalle on ResearchGate](https://www.researchgate.net/profile/Praveen-Kumar-Thopalle)
+- **Google Scholar:** [Praveen Kumar Thopalle on Google Scholar](https://scholar.google.com/citations?hl=en&user=EOjHwdYAAAAJ)
+- **DZone Articles:** [Enhancing Multi-Document Summarization](https://dzone.com/articles/enhancing-multi-document-summarization-with-llama)
+- **Forbes Tech Councils:** [Forbes Profile](https://councils.forbes.com/profile/Praveen-Thopalle-DevOps-Lead-Dell-Technologies)
+
 📫 How to reach me **praveen.thopalle@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
